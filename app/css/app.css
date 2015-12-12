@@ -1,0 +1,7 @@
+/* app css stylesheet */
+
+.alert-box{
+    display: none;
+    background-color: red;
+    border: #cccccc 1px solid;
+}
